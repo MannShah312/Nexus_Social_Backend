@@ -1,4 +1,4 @@
-# 🚀 **Genuin Backend API Task**  
+# 🚀 **Nexus-Social Backend API Task**  
 
 Welcome to the **Genuin Platform API** — a scalable backend service that allows users to interact with **brands**, **communities**, **groups**, and **videos** seamlessly. The platform supports **role-based access control (RBAC)**, **JWT authentication**, **Cloudinary integration** for media uploads, **Redis caching**, and is **Dockerized** for smooth deployment.  
 
